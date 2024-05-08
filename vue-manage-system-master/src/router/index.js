@@ -2,6 +2,9 @@ import { createRouter, createWebHashHistory } from "vue-router";
 import Home from "../views/Home.vue";
 import { ElMessage, ElMessageBox } from "element-plus";
 
+
+
+
 const routes = [
     {
         path: "/",
